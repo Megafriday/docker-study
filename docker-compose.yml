@@ -5,3 +5,5 @@ services:
     tty: true
     volumes:
       - .:/docker-study
+    ports:
+      - "8080:8000"
