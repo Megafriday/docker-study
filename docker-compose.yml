@@ -4,4 +4,4 @@ services:
     build: .
     tty: true
     volumes:
-      - .:/HTMLElement
+      - .:/docker-study
